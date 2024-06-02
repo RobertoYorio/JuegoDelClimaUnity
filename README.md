@@ -1,2 +1,2 @@
 # JuegoDelClimaUnity
-Este es un proyecto donde cree un simple juego en Unity que se basa en tomar decisiones correctas
+Este proyecto se basa en crear un juego simple para moviles en Unity donde el objetivo es tomar decisiones correctas dependiendo de un contexto
